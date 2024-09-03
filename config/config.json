@@ -1,0 +1,7 @@
+{
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587,
+    "email": "seu_email@example.com",
+    "password": "sua_senha",
+    "api_key": "sua_chave_api"
+}

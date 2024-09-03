@@ -1,0 +1,6 @@
+# Lista de dependências do projeto
+
+pandas
+requests
+sqlalchemy
+matplotlib
